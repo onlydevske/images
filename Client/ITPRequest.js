@@ -13,7 +13,7 @@ module.exports = {
   //--------------------------
   getBytePacket: function () {
     // enter your code here
-    return "this should be a correct packet";
+    return 'this should be a correct packet'
   },
 
   //--------------------------
@@ -21,8 +21,8 @@ module.exports = {
   //--------------------------
   getBitPacket: function () {
     // enter your code here
-    return "this should be a correct packet";
+    return 'this should be a correct packet'
   },
-};
+}
 
 // Extra utility methods can be added here
